@@ -7,5 +7,7 @@ I had struggles with some of my structuring and as well my delete handle. Over a
 Recreated my repository in order to fixing my heroku deployment. 
 
 Link to website
+
 https://polar-chamber-59913.herokuapp.com/
+
 https://github.com/LunaData1111/Take-a-Note
