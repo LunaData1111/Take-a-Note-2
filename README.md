@@ -4,5 +4,8 @@
 
 
 I had struggles with some of my structuring and as well my delete handle. Over all had fun and will do more studying to further my knowledge. 
+Recreated my repository in order to fixing my heroku deployment. 
 
 Link to website
+https://polar-chamber-59913.herokuapp.com/
+https://github.com/LunaData1111/Take-a-Note
